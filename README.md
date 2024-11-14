@@ -1,5 +1,8 @@
 ## OSS 수업 관련
-
+- 🔭 I’m currently working on OSS
+- 🌱 I’m currently learning OSS
+- 🤔 I’m looking for help with OSS
+- 💬 Ask me about OSS and game 
 <!--
 **Taejoonfldhfl/Taejoonfldhfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
